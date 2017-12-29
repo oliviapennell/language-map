@@ -1,0 +1,14 @@
+.tile {  
+	width: 100%;
+	display: inline-block;
+	background: #fff;		
+	padding: 20px;
+	margin-bottom: 10px;
+}
+.german {
+	background: blue;
+	width: 20%;
+	display: inline-block;	
+	padding: 20px;
+	margin-bottom: 10px;
+}
